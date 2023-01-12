@@ -175,12 +175,15 @@
   font-size: 24px;
   font-weight: 600;
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 .table__text{
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
+  margin-top: 20px;
+  margin-bottom: 0;
 }
 
 .feynman{
@@ -291,7 +294,7 @@
   position: absolute;
   right: -210px;
   top: 0;
-  background-image: url(/images/kaufman-triangle.svg);
+  background-image: url(../images/kaufman-triangle.svg);
   background-repeat: no-repeat;
 }
 
